@@ -1,0 +1,17 @@
+
+.card{
+	border: 1px solid black;
+	display:flex;
+	flex-direcrtion: column;
+}
+
+
+.card-content {
+	margin: 10px;
+	justify-content: center;
+
+	.spanName{
+		display:block;
+	}
+	
+}
